@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDungeon", "MyDungeon.csproj", "{A65BF11D-CFC2-42EF-B0FB-DD79474E48B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapLibrary", "ClassLibrary1\MapLibrary.csproj", "{A69C0C44-268A-4B8B-B4B6-42022DC98A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMonster", "MapMonsters\MapMonster.csproj", "{87DC96B7-191F-4F30-A05E-E2379A46B980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65BF11D-CFC2-42EF-B0FB-DD79474E48B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65BF11D-CFC2-42EF-B0FB-DD79474E48B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65BF11D-CFC2-42EF-B0FB-DD79474E48B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65BF11D-CFC2-42EF-B0FB-DD79474E48B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69C0C44-268A-4B8B-B4B6-42022DC98A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69C0C44-268A-4B8B-B4B6-42022DC98A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69C0C44-268A-4B8B-B4B6-42022DC98A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69C0C44-268A-4B8B-B4B6-42022DC98A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DC96B7-191F-4F30-A05E-E2379A46B980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DC96B7-191F-4F30-A05E-E2379A46B980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DC96B7-191F-4F30-A05E-E2379A46B980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DC96B7-191F-4F30-A05E-E2379A46B980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B6FC75F-11CC-4454-9FF3-2BB7E211DC23}
+	EndGlobalSection
+EndGlobal
